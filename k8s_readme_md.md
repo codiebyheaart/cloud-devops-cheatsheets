@@ -596,6 +596,6 @@ Found an error or want to add more? Feel free to submit a PR!
 
 ---
 
-**Made with ❤️ for Kubernetes learners and interview prep**
+**Made with ❤️ codiebyheaart**
 
 *Last Updated: December 2025*
