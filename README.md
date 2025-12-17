@@ -52,7 +52,7 @@ Contributions welcome! Feel free to submit PRs.
 
 ## ⭐ Show Your Support
 
-Give a ⭐ if this helped you!
+Give a ⭐ if this helped you!    
 
 ---
 
